@@ -1,0 +1,17 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Compiled Java files
+bin/
+*.class
+
+# Logs
+*.log
+
+# Java package files
+*.jar
+*.war
+*.ear
+*.zip
